@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{899AEDAA-2B42-435B-BE88-29EF1692BCED}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SecondDbProject PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/PostsController.cs">
+    <Files>
+      <File FileName="Entities/User.cs" />
+      <File FileName="Entities/Post.cs" Line="18" Column="39" />
+      <File FileName="Controllers/PostsController.cs" Line="31" Column="10" />
+      <File FileName="Context/MySecondDbContext.cs" />
+      <File FileName="Program.cs" />
+      <File FileName="appsettings.json" />
+      <File FileName="Controllers/UsersController.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SecondDbProject" expanded="True">
+            <Node name="SecondDbProject" expanded="True">
+              <Node name="Context" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="PostsController.cs" selected="True" />
+              </Node>
+              <Node name="Entities" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
